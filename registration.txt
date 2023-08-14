@@ -1,4 +1,5 @@
 Welcome to registration page!
 Enter username __________
 Enter password ___________
+
 <Register>
